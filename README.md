@@ -1,1 +1,1 @@
-# Parse the lyrics like KTV effect
+# 仿卡拉ok逐字解析歌词
